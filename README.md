@@ -1,10 +1,8 @@
 # PyBer_Analysis
 
 ## Overview
-An assignment was given to untilize Python and Pandas in oder to create a summary of 
-Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+An assignment was given to utilize Python and Pandas in order to create a summary DataFrame organized by the city types: rural, suburban, and urban. In addition to this, a graph that presents the total fares of each city type throughout January to April and a single graph. Based on the information of the DataFrame and graph, there needs to be some suggestions on what would be best decisions for the company interest.
 
-The purpose of the new analysis is well defined.
 ## Results
 
 
